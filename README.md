@@ -50,7 +50,6 @@ README.md
 - scikit-learn
 - matplotlib, seaborn
 
-- Моделировать IC50 и CC50
-- SI рассчитывать по формуле: SI = CC50 / IC50
+
   
 
